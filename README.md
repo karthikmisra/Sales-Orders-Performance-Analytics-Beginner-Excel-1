@@ -26,8 +26,8 @@ The dashboard dynamically calculates and visualizes answers to the following ope
 *(Note: Ensure the uploaded screenshot in the repository is named exactly `dashboard_view.png` for this image to display.)*
 
 ## 📁 Repository Contents
-* `Employee_Sales_Dashboard.xlsx`: The finalized interactive dashboard containing the raw data, calculation backend, and frontend visualizations.
-* `employee_sales - Copy.csv`: The raw, unprocessed dataset used for this analysis.
+* `Employee_Sales_1.xlsx`: The finalized interactive dashboard containing the raw data, calculation backend, and frontend visualizations.
+* `employee_sales_Dataset.csv`: The raw, unprocessed dataset used for this analysis.
 * `dashboard_view.png`: A high-resolution static preview of the dashboard interface.
 
 ## ⚙️ How to Use This Dashboard
